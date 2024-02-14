@@ -3,5 +3,5 @@
 Write your telegram api token in config.
 
 # start
-pip install -r requrements.txt
+pip install -r requirements.txt
 python3 bot.py
